@@ -1,0 +1,15 @@
+---
+:global:
+:cases:
+- tt_members: Pepito
+  :host_alumne: alu012345678
+  :host_usuari: root
+  :host_password: root
+  :host_ip: 192.168.203.101
+  :host_correu: alu012345678@ieselcaminas.org
+- tt_members: Juanto
+  :host_alumne: alu011111111
+  :host_usuari: root
+  :host_password: root
+  :host_ip: 192.168.203.102
+  :host_correu: alu011111111@ieselcaminas.org

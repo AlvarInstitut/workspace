@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.hibernate.Session"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.xml.xquery.XQDataSource"/>
+<fullyQualifiedTypeName name="net.xqj.exist.ExistXQDataSource"/>
+<fullyQualifiedTypeName name="javax.xml.xquery.XQConnection"/>
+<fullyQualifiedTypeName name="javax.xml.xquery.XQPreparedExpression"/>
+<fullyQualifiedTypeName name="javax.xml.xquery.XQResultSequence"/>
+<fullyQualifiedTypeName name="redis.clients.jedis.Jedis"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+</qualifiedTypeNameHistroy>
